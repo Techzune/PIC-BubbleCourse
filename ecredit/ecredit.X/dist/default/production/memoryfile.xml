@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/ecredit.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>678</used>
+      <free>15706</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>124770</length>
+      <used>26736</used>
+      <free>98034</free>
+    </memory>
+  </executable>
+</project>
