@@ -84,6 +84,7 @@ int main(void) {
   CONFIG_EEPROM();
   
   // read the high score from EEPROM
+  DELAY_MS(20);
   u8_high_score = EEPROM_READ_SPECIFIC(0x1337);
   DELAY_MS(20);
   I2C1CONbits.I2CEN = 0;
