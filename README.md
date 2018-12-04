@@ -1,7 +1,6 @@
 # PIC: Bubble Course
 Designed for dsPIC33EP128GP502-I/SP
 
-## About
 Bubble Course is based on the infamous Flappy Bird game released back in 2013-2014. With similar gameplay, 
 this game provides a fun, yet challenging, experience for all ages.
 
