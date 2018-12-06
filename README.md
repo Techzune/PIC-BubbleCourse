@@ -1,4 +1,6 @@
 # PIC: Bubble Course
+Created by Jordan Stremming and Elisabeth Ama
+
 Designed for dsPIC33EP128GP502-I/SP
 
 Bubble Course is based on the infamous Flappy Bird game released back in 2013-2014. With similar gameplay, 
